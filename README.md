@@ -1,7 +1,6 @@
-```markdown
-#Hi there 👋, I'm Muhammad Asif
+# Hi there 👋, I'm Muhammad Asif
 
-##AI Engineer | Software Engineer | Machine Learning Enthusiast
+## AI Engineer | Software Engineer | Machine Learning Enthusiast
 
 I'm a Software Engineering graduate passionate about building intelligent systems that solve real-world problems.
 
@@ -113,4 +112,3 @@ I enjoy transforming ideas into AI-powered applications that are practical, scal
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-```
